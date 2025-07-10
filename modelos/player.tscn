@@ -6,4 +6,4 @@
 script = ExtResource("1_hhqlr")
 
 [node name="RayCast3D" type="RayCast3D" parent="."]
-transform = Transform3D(1, 0, 0, 0, 0.0188659, -0.999822, 0, 0.999822, 0.0188659, 0, -0.0268553, -0.721169)
+transform = Transform3D(1, 0, 0, 0, 0.0188659, -0.999822, 0, 0.999822, 0.0188659, -0.000927925, -0.021407, -0.718941)
