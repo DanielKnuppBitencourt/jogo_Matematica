@@ -2,8 +2,13 @@
 
 [ext_resource type="Script" uid="uid://bkdky4rsoyxyr" path="res://scripts/player.gd" id="1_hhqlr"]
 
-[node name="Camera3D" type="Camera3D"]
+[node name="Player" type="Node3D"]
 script = ExtResource("1_hhqlr")
 
-[node name="RayCast3D" type="RayCast3D" parent="."]
-transform = Transform3D(1, 0, 0, 0, 0.0188659, -0.999822, 0, 0.999822, 0.0188659, -0.000927925, -0.021407, -0.718941)
+[node name="Camera" type="Camera3D" parent="."]
+
+[node name="FrenteRay" type="RayCast3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, -4.37114e-08, -1, 0, 1, -4.37114e-08, 0, 0, -0.669317)
+
+[node name="TrasRay" type="RayCast3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, -4.37114e-08, 1, 0, -1, -4.37114e-08, 0, 0, 0)
