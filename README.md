@@ -1,8 +1,8 @@
 Os seguintes projetos fazem parte de um Trabalho da Rede Firjan Senai Sesi de Nova Friburgo para a aula de matemática
 
 equipe de desenvolvimento:
-Daniel K- Líder criativo (jogo digital) , programação e modelagem. - Linux
 
+Daniel K- Líder criativo (jogo digital) , programação e modelagem. - Linux
 Davi Faustino -Líder criativo (físico), programação , testes, design, testes de compatibilidade com Windows. - Windows
 Artur T. - programação, testes, testes, testes de compatibilidade com Windows.- Windows
 Marianna - Líder criativo (físico),design, level design, parte física. ?
