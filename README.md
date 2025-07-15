@@ -40,14 +40,21 @@ Sistemas operacionais testados: arch linux ,debian, windows
 Recomendações de hardware e software -
 Software - 
 versionamento -git versão mais nova
+
 engine- godot versão 4.4.1
+
 ide/editor de código- Emacs versão mais nova ou Kate ou qualquer ide/editor de texto(VSCODE, jetbrais)
+
 .net- caso haja scripts em C# usar a versão do 9 do SDK
-sistema operacional (o projeto foi desenvolvido principalmente com o uso de sistemas Linux, com uso de 2 distros principais: Arch linux, e diversas de base debian, como o próprio debian, ubuntu, mint ....) qualquer distro linux ou Windows, Mac não a nenhum plano de compilação devido a Apple não oferecer suporte nativo a Vulkan, e a necessídade de um Mac para compilação.
+
+sistema operacional (o projeto foi desenvolvido principalmente com o uso de sistemas Linux, com uso de 2 distros principais: Arch linux, e diversas de base debian, como o próprio debian, ubuntu, mint ....) qualquer distro linux ou Windows, Mac não a nenhum plano de compilação devido a Apple não oferecer suporte nativo a Vulkan, e a necessídade de um Mac para compilação, *no linux se recomenda o uso de Wayland ao invés de X11.
 
 Hardware - 
+
 CPU- Intel ou AMD no atual momento o jogo só foi testado em processadores equivalentes ou acima de i5 de 7° geração ou 5 1600, porém há previsão de rodar em um i3 de 4° geração, recomendado: i5 de 6° geração ou equivalente
+
 GPU: placa integrada 
+
 memória RAM: 8GB(linux), 16(Windows).
 
 
