@@ -39,6 +39,7 @@ Sistemas operacionais testados: arch linux ,debian, windows
 
 Recomendações de hardware e software -
 Software - 
+
 versionamento -git versão mais nova
 
 engine- godot versão 4.4.1
