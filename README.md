@@ -25,7 +25,7 @@ hardware - testados:
 CPUS : i5-13420H, i7-10750H, i5-7?
 GPUS: RTX 3050, GTX 1650, vídeo integrado
 RAM: 64, 48, 12
-Sistemas operacionais testados: arch linux ,debian, ubuntu, kubuntu, manjaro, mint, zorin os, windows
+Sistemas operacionais testados: arch linux ,debian, windows
 
 Recomendações de hardware e software -
 Software - versionamento -git versão mais nova, engine- godot versão 4.4.1,ide/editor de código- Emacs versão mais nova ou Kate ou qualquer ide/editor de texto(VSCODE, jetbrais),.net- caso haja scripts em C# usar a versão do 9 do SDK, sistema operacional (o projeto foi desenvolvido principalmente com o uso de sistemas Linux, com uso de 2 distros principais: Arch linux, e diversas de base debian, como o próprio debian, ubuntu, mint ....) qualquer distro linux ou Windows, Mac não a nenhum plano de compilação devido a Apple não oferecer suporte nativo a Vulkan, e a necessídade de um Mac para compilação.
