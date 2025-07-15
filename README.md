@@ -37,6 +37,7 @@ RAM: 64, 48, 12
 
 Sistemas operacionais testados: arch linux ,debian, windows
 
+
 Recomendações de hardware e software -
 Software - 
 
@@ -49,6 +50,12 @@ ide/editor de código- Emacs versão mais nova ou Kate ou qualquer ide/editor de
 .net- caso haja scripts em C# usar a versão do 9 do SDK
 
 sistema operacional (o projeto foi desenvolvido principalmente com o uso de sistemas Linux, com uso de 2 distros principais: Arch linux, e diversas de base debian, como o próprio debian, ubuntu, mint ....) qualquer distro linux ou Windows, Mac não a nenhum plano de compilação devido a Apple não oferecer suporte nativo a Vulkan, e a necessídade de um Mac para compilação, *no linux se recomenda o uso de Wayland ao invés de X11.
+
+Krita e Gimp - versão mais nova
+
+LMMS/Ardour - versão mais nova
+
+Drivers Wacom - mais recentes ou usar DiGimend drivers ou OpenTableDriver
 
 Hardware - 
 
