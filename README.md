@@ -23,7 +23,7 @@ terceiro projeto ? - show do milhão edição de matemática
 decidir sobre
 
 
-jogo-
+jogo- progresso : 60% programação livre, blocagem dos mapas, design das cartas, falta texturas, iluminação, menus, e alguns modelos
 
 atualizações diárias ou a cada dois dias do repositório
 
